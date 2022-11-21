@@ -1,0 +1,42 @@
+[
+    {
+        "img":"./archivos/ceatd.jpg",
+        "titulo":"Cómo entrenar a tu dragón",
+        "duracion":"Duración: 98 minutos",
+        "descripcion":"Hipo, un vikingo adolescente, comienza las clases de entrenamiento con dragones y ve por fin una oportunidad para demostrar que es capaz de convertirse en guerrero cuando hace amistad con un dragón herido.",
+        "reparto":"Reparto: Jay Baruchel, Gerard Butler, America Ferrera, Craig Ferguson, Jonah Hill, Christopher Mintz-Plasse, T.J Miller, Kristen Wiig.",
+        "puntuacion":"Puntuación en Metracritic: 8.7"
+    },
+    {
+        "img":"./archivos/shrek2.jpg",
+        "titulo":"Shrek 2",
+        "duracion":"Duración: 93 minutos",
+        "descripcion":"En esta ocasión, Shrek debe enfrentarse al mayor de los problemas que se podía imaginar: conocer a sus suegros.",
+        "reparto":"Reparto: Mike Myers, Eddie Murphy, Cameron Diaz, Antonio Banderas, John Cleese, Rupert Everett, Jennifer Saunders.",
+        "puntuacion":"Puntuación en Metracritic: 8.7"
+    },
+    {
+        "img":"./archivos/kfp.jpg",
+        "titulo":"Kung Fu Panda",
+        "duracion":"Duración: 92 minutos.",
+        "descripcion":"El panda Po trabaja en la tienda de fideos de su familia y sueña en convertirse en un maestro del kung-fu. Su sueño se hace una realidad cuando es inesperadamente elegido para cumplir una antigua profecía y debe estudiar artes marciales con sus ídolos, los Cinco Furiosos. Po necesitará toda la sabiduría, fortaleza y habilidades para poder proteger a su gente de Tai Lung, un maldito leopardo de nieve.",
+        "reparto":"Reparto: Jack Black, Dustin Hoffman, Randall Duk Kim, Angelina Jolie, Jackie Chan, Seth Rogen, Lucy Liu, David Cross, Ian McShane, James Hong.",
+        "puntuacion":"Puntuación en Metracritic: 8.3"
+    },
+    {
+        "img":"./archivos/megamente.jpg",
+        "titulo":" Megamente",
+        "duracion":"Duración: 96 minutos",
+        "descripcion":"A pesar de que él es el supervillano más brillante que ha tenido el mundo, Megamente es el menos exitoso. Frustrado una y otra vez por el heroico Metro Man, Megamente se sorprende cuando logra superar a un enemigo de tanto tiempo. pero sin Metro Man, Megamente no tiene ningún propósito en la vida, por lo que crea a un nuevo oponente, quien rápidamente decide que es más divertido ser el malo que el héroe.",
+        "reparto":"Reparto: Will Ferrell, Tina Fey, Jonah Hill, David Cross, Brad Pitt, J.K. Simmons.",
+        "puntuacion":"Puntuación en Metracritic: 7.6"
+    },
+    {
+        "img":"./archivos/Spirit.jpg",
+        "titulo":"Spirit: el corcel indomable",
+        "duracion":"Duración: 83 minutos",
+        "descripcion":"Un mustang salvaje capturado por oficiales de la caballería de Estados Unidos no ceja en su empeño por regresar a casa tras una serie de experiencias con los humanos.",
+        "reparto":"Reparto: Matt Damon, James Cromwell, Daniel Studi",
+        "puntuacion":"Puntuación en Metracritic: 7.7"
+    }
+]
